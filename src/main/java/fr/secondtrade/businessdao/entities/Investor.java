@@ -4,7 +4,7 @@ import javax.persistence.Entity;
 import javax.persistence.Table;
 
 @Entity
-@Table(name = "inverstors")
+@Table(name = "investors")
 public class Investor extends Person {
 	
 	private static final long serialVersionUID = 1L;
